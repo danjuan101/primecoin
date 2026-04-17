@@ -279,7 +279,7 @@ public:
         // Deployment of RFC2: upgrade fee rule and destroy fee rule.
         consensus.vDeployments[Consensus::DEPLOYMENT_RFC2].bit = 2;
         consensus.vDeployments[Consensus::DEPLOYMENT_RFC2].nStartTime = 1773728928; // March 17, 2026
-        consensus.vDeployments[Consensus::DEPLOYMENT_RFC2].nTimeout = 1776436195; // April 16, 2026
+        consensus.vDeployments[Consensus::DEPLOYMENT_RFC2].nTimeout = 1781620195; // June 16, 2026
 
     }
 };
